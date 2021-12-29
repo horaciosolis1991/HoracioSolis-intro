@@ -10,3 +10,19 @@ for is not allowed but some of the projects that you will find in this repo are 
 
 Feel free to check some of my jobs in the following links:
 
+
+## Git class material:
+
+In this repo you will find valuable and basic information about how to use Git using the Git CMD, also you will find useful resources that will boost your level in Git.
+
+https://github.com/horaciosolis1991/Git-class-material
+
+
+
+## Python projects:
+
+The repo contains basic codes, most of them functions, used in several data analysis/visualization projects.
+
+https://github.com/horaciosolis1991/Python-Projects
+
+
